@@ -195,6 +195,48 @@
   "audioPath": "/public/audio/too_much_toneplay_siangyoo.mp3",
   "beatmapPath": "/public/beatmaps/too_much_toneplay_hard.json",
   "note": "Tác giả: DJ siangyoo"
+},
+{
+  "id": "let_me_ruin_this_easy",
+  "title": "Let Me Ruin This DJ siangyoo",
+  "artist": "siangyoo",
+  "genre": "tiktok",
+  "genre2": "tiktok",
+  "difficulty": "easy",
+  "bpm": 150,
+  "duration": 46,
+  "strat": ["charm", "sniper"],
+  "audioPath": "/public/audio/let_me_ruin_this_siangyoo.mp3",
+  "beatmapPath": "/public/beatmaps/let_me_ruin_this_easy.json",
+  "note": "Tác giả: siangyoo"
+},
+{
+  "id": "let_me_ruin_this_normal",
+  "title": "Let Me Ruin This DJ siangyoo",
+  "artist": "siangyoo",
+  "genre": "tiktok",
+  "genre2": "tiktok",
+  "difficulty": "normal",
+  "bpm": 150,
+  "duration": 46,
+  "strat": ["charm", "sniper"],
+  "audioPath": "/public/audio/let_me_ruin_this_siangyoo.mp3",
+  "beatmapPath": "/public/beatmaps/let_me_ruin_this_normal.json",
+  "note": "Tác giả: siangyoo"
+},
+{
+  "id": "let_me_ruin_this_hard",
+  "title": "Let Me Ruin This DJ siangyoo",
+  "artist": "siangyoo",
+  "genre": "tiktok",
+  "genre2": "tiktok",
+  "difficulty": "hard",
+  "bpm": 150,
+  "duration": 46,
+  "strat": ["charm", "sniper"],
+  "audioPath": "/public/audio/let_me_ruin_this_siangyoo.mp3",
+  "beatmapPath": "/public/beatmaps/let_me_ruin_this_hard.json",
+  "note": "Tác giả: siangyoo"
 }
   ]
 }
