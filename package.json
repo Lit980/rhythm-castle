@@ -1,0 +1,11 @@
+{
+  "name": "rhythm-castle-server",
+  "version": "1.0.0",
+  "description": "Netlify Functions cho Lâu Đài ChaChaCha",
+  "dependencies": {
+    "@netlify/blobs": "^7.0.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
