@@ -125,6 +125,34 @@
       "audioPath": "/public/audio/giay_ghi_chu_tam_nguyen_baby.mp3",
       "beatmapPath": "/public/beatmaps/giay_ghi_chu_hard.json",
       "note": "Tác giả: Đi Va Quanh Ta"
-    }
+    },
+    {
+  "id": "risk_it_all_easy",
+  "title": "Risk It All (Bruno Mars) - Parody jasondchen",
+  "artist": "Parody jasondchen",
+  "genre": "tiktok",
+  "genre2": "tiktok",
+  "difficulty": "easy",
+  "bpm": 84,
+  "duration": 61,
+  "strat": ["charm", "sniper"],
+  "audioPath": "/public/audio/risk_it_all_jasondchen.mp3",
+  "beatmapPath": "/public/beatmaps/risk_it_all_easy.json",
+  "note": "Tác giả: Parody jasondchen"
+},
+{
+  "id": "risk_it_all_normal",
+  "title": "Risk It All (Bruno Mars) - Parody jasondchen",
+  "artist": "Parody jasondchen",
+  "genre": "tiktok",
+  "genre2": "tiktok",
+  "difficulty": "normal",
+  "bpm": 84,
+  "duration": 61,
+  "strat": ["charm", "sniper"],
+  "audioPath": "/public/audio/risk_it_all_jasondchen.mp3",
+  "beatmapPath": "/public/beatmaps/risk_it_all_normal.json",
+  "note": "Tác giả: Parody jasondchen"
+}
   ]
 }
