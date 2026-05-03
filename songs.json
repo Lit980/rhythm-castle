@@ -237,6 +237,48 @@
   "audioPath": "/public/audio/let_me_ruin_this_siangyoo.mp3",
   "beatmapPath": "/public/beatmaps/let_me_ruin_this_hard.json",
   "note": "Tác giả: siangyoo"
+},
+{
+  "id": "never_too_much_easy",
+  "title": "Never Too Much… siangyoo",
+  "artist": "siangyoo",
+  "genre": "trap",
+  "genre2": "tiktok",
+  "difficulty": "easy",
+  "bpm": 70,
+  "duration": 48,
+  "strat": ["charm", "sniper"],
+  "audioPath": "/public/audio/never_too_much_siangyoo.mp3",
+  "beatmapPath": "/public/beatmaps/never_too_much_easy.json",
+  "note": "Tác giả: siangyoo"
+},
+{
+  "id": "never_too_much_normal",
+  "title": "Never Too Much… siangyoo",
+  "artist": "siangyoo",
+  "genre": "trap",
+  "genre2": "tiktok",
+  "difficulty": "normal",
+  "bpm": 70,
+  "duration": 48,
+  "strat": ["charm", "sniper"],
+  "audioPath": "/public/audio/never_too_much_siangyoo.mp3",
+  "beatmapPath": "/public/beatmaps/never_too_much_normal.json",
+  "note": "Tác giả: siangyoo"
+},
+{
+  "id": "never_too_much_hard",
+  "title": "Never Too Much… siangyoo",
+  "artist": "siangyoo",
+  "genre": "trap",
+  "genre2": "tiktok",
+  "difficulty": "hard",
+  "bpm": 70,
+  "duration": 48,
+  "strat": ["charm", "sniper"],
+  "audioPath": "/public/audio/never_too_much_siangyoo.mp3",
+  "beatmapPath": "/public/beatmaps/never_too_much_hard.json",
+  "note": "Tác giả: siangyoo"
 }
   ]
 }
