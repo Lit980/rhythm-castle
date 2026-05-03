@@ -1,4 +1,46 @@
 {
-  "songs": [],
-  "_note": "File này sẽ được quản lý tự động qua Admin Panel. Khi upload nhạc mới, songs.json sẽ được cập nhật bởi Netlify Function."
+  "songs": [
+    {
+      "id": "mong_yu_cloudee_easy",
+      "title": "MỘNG YU x HOODTRAP (CLOUDEE REMIX)",
+      "artist": "CLOUDEE REMIX",
+      "genre": "trap",
+      "genre2": "tiktok",
+      "difficulty": "easy",
+      "bpm": 118,
+      "duration": 166,
+      "strat": ["charm", "sniper"],
+      "audioPath": "/public/audio/mong_yu_cloudee.mp3",
+      "beatmapPath": "/public/beatmaps/mong_yu_easy.json",
+      "note": "Tác giả: CLOUDEE REMIX"
+    },
+    {
+      "id": "mong_yu_cloudee_normal",
+      "title": "MỘNG YU x HOODTRAP (CLOUDEE REMIX)",
+      "artist": "CLOUDEE REMIX",
+      "genre": "trap",
+      "genre2": "tiktok",
+      "difficulty": "normal",
+      "bpm": 118,
+      "duration": 166,
+      "strat": ["charm", "sniper"],
+      "audioPath": "/public/audio/mong_yu_cloudee.mp3",
+      "beatmapPath": "/public/beatmaps/mong_yu_normal.json",
+      "note": "Tác giả: CLOUDEE REMIX"
+    },
+    {
+      "id": "mong_yu_cloudee_hard",
+      "title": "MỘNG YU x HOODTRAP (CLOUDEE REMIX)",
+      "artist": "CLOUDEE REMIX",
+      "genre": "trap",
+      "genre2": "tiktok",
+      "difficulty": "hard",
+      "bpm": 118,
+      "duration": 166,
+      "strat": ["charm", "sniper"],
+      "audioPath": "/public/audio/mong_yu_cloudee.mp3",
+      "beatmapPath": "/public/beatmaps/mong_yu_hard.json",
+      "note": "Tác giả: CLOUDEE REMIX"
+    }
+  ]
 }
