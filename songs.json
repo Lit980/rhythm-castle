@@ -83,6 +83,48 @@
   "audioPath": "/public/audio/co_cong_mai_sac_drill.mp3",
   "beatmapPath": "/public/beatmaps/co_cong_mai_sac_hard.json",
   "note": "Tác giả: Prod. By Hades"
+},
+{
+  "id": "giay_ghi_chu_easy",
+  "title": "Giây Ghi Chu Tâm Nguyên X Baby Mashup",
+  "artist": "Đì Va Quanh Ta",
+  "genre": "tiktok",
+  "genre2": "onnvui",
+  "difficulty": "easy",
+  "bpm": 130,
+  "duration": 36,
+  "strat": ["charm", "sniper"],
+  "audioPath": "/public/audio/giay_ghi_chu_tam_nguyen_baby.mp3",
+  "beatmapPath": "/public/beatmaps/giay_ghi_chu_easy.json",
+  "note": "Tác giả: Đì Va Quanh Ta"
+},
+{
+  "id": "giay_ghi_chu_normal",
+  "title": "Giây Ghi Chu Tâm Nguyên X Baby Mashup",
+  "artist": "Đì Va Quanh Ta",
+  "genre": "tiktok",
+  "genre2": "onnvui",
+  "difficulty": "normal",
+  "bpm": 130,
+  "duration": 36,
+  "strat": ["charm", "sniper"],
+  "audioPath": "/public/audio/giay_ghi_chu_tam_nguyen_baby.mp3",
+  "beatmapPath": "/public/beatmaps/giay_ghi_chu_normal.json",
+  "note": "Tác giả: Đì Va Quanh Ta"
+},
+{
+  "id": "giay_ghi_chu_hard",
+  "title": "Giây Ghi Chu Tâm Nguyên X Baby Mashup",
+  "artist": "Đì Va Quanh Ta",
+  "genre": "tiktok",
+  "genre2": "onnvui",
+  "difficulty": "hard",
+  "bpm": 130,
+  "duration": 36,
+  "strat": ["charm", "sniper"],
+  "audioPath": "/public/audio/giay_ghi_chu_tam_nguyen_baby.mp3",
+  "beatmapPath": "/public/beatmaps/giay_ghi_chu_hard.json",
+  "note": "Tác giả: Đì Va Quanh Ta"
 }
   ]
 }
