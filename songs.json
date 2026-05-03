@@ -153,6 +153,48 @@
   "audioPath": "/public/audio/risk_it_all_jasondchen.mp3",
   "beatmapPath": "/public/beatmaps/risk_it_all_normal.json",
   "note": "Tác giả: Parody jasondchen"
+},
+{
+  "id": "too_much_toneplay_easy",
+  "title": "Too Much Toneplay DJ siangyoo",
+  "artist": "DJ siangyoo",
+  "genre": "trap",
+  "genre2": "tiktok",
+  "difficulty": "easy",
+  "bpm": 132,
+  "duration": 55,
+  "strat": ["charm", "sniper"],
+  "audioPath": "/public/audio/too_much_toneplay_siangyoo.mp3",
+  "beatmapPath": "/public/beatmaps/too_much_toneplay_easy.json",
+  "note": "Tác giả: DJ siangyoo"
+},
+{
+  "id": "too_much_toneplay_normal",
+  "title": "Too Much Toneplay DJ siangyoo",
+  "artist": "DJ siangyoo",
+  "genre": "trap",
+  "genre2": "tiktok",
+  "difficulty": "normal",
+  "bpm": 132,
+  "duration": 55,
+  "strat": ["charm", "sniper"],
+  "audioPath": "/public/audio/too_much_toneplay_siangyoo.mp3",
+  "beatmapPath": "/public/beatmaps/too_much_toneplay_normal.json",
+  "note": "Tác giả: DJ siangyoo"
+},
+{
+  "id": "too_much_toneplay_hard",
+  "title": "Too Much Toneplay DJ siangyoo",
+  "artist": "DJ siangyoo",
+  "genre": "trap",
+  "genre2": "tiktok",
+  "difficulty": "hard",
+  "bpm": 132,
+  "duration": 55,
+  "strat": ["charm", "sniper"],
+  "audioPath": "/public/audio/too_much_toneplay_siangyoo.mp3",
+  "beatmapPath": "/public/beatmaps/too_much_toneplay_hard.json",
+  "note": "Tác giả: DJ siangyoo"
 }
   ]
 }
