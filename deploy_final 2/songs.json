@@ -1,4 +1,0 @@
-{
-  "songs": [],
-  "_note": "File này sẽ được quản lý tự động qua Admin Panel. Khi upload nhạc mới, songs.json sẽ được cập nhật bởi Netlify Function."
-}
