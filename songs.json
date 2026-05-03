@@ -321,6 +321,48 @@
   "audioPath": "/public/audio/co_cong_mai_sac_dai_meo_remix.mp3",
   "beatmapPath": "/public/beatmaps/co_cong_mai_sac_dai_meo_hard.json",
   "note": "Tác giả: Đại Mèo Remix"
+},
+{
+  "id": "mot_suong_hai_nang_easy",
+  "title": "Một Sương Hai Nắng Dãi Dầu Cùng Nhau Drill",
+  "artist": "Prodby Nemo",
+  "genre": "drill",
+  "genre2": "drill",
+  "difficulty": "easy",
+  "bpm": 149,
+  "duration": 28,
+  "strat": ["charm", "sniper"],
+  "audioPath": "/public/audio/mot_suong_hai_nang_drill.mp3",
+  "beatmapPath": "/public/beatmaps/mot_suong_hai_nang_easy.json",
+  "note": "Tác giả: Prodby Nemo"
+},
+{
+  "id": "mot_suong_hai_nang_normal",
+  "title": "Một Sương Hai Nắng Dãi Dầu Cùng Nhau Drill",
+  "artist": "Prodby Nemo",
+  "genre": "drill",
+  "genre2": "drill",
+  "difficulty": "normal",
+  "bpm": 149,
+  "duration": 28,
+  "strat": ["charm", "sniper"],
+  "audioPath": "/public/audio/mot_suong_hai_nang_drill.mp3",
+  "beatmapPath": "/public/beatmaps/mot_suong_hai_nang_normal.json",
+  "note": "Tác giả: Prodby Nemo"
+},
+{
+  "id": "mot_suong_hai_nang_hard",
+  "title": "Một Sương Hai Nắng Dãi Dầu Cùng Nhau Drill",
+  "artist": "Prodby Nemo",
+  "genre": "drill",
+  "genre2": "drill",
+  "difficulty": "hard",
+  "bpm": 149,
+  "duration": 28,
+  "strat": ["charm", "sniper"],
+  "audioPath": "/public/audio/mot_suong_hai_nang_drill.mp3",
+  "beatmapPath": "/public/beatmaps/mot_suong_hai_nang_hard.json",
+  "note": "Tác giả: Prodby Nemo"
 }
   ]
 }
