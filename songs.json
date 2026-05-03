@@ -10,8 +10,8 @@
       "bpm": 118,
       "duration": 166,
       "strat": ["charm", "sniper"],
-      "audioPath": "/audio/mong_yu_cloudee.mp3",
-      "beatmapPath": "/beatmaps/mong_yu_easy.json",
+      "audioPath": "/public/audio/mong_yu_cloudee.mp3",
+      "beatmapPath": "/public/beatmaps/mong_yu_easy.json",
       "note": "Tác giả: CLOUDEE REMIX"
     },
     {
@@ -24,8 +24,8 @@
       "bpm": 118,
       "duration": 166,
       "strat": ["charm", "sniper"],
-      "audioPath": "/audio/mong_yu_cloudee.mp3",
-      "beatmapPath": "/beatmaps/mong_yu_normal.json",
+      "audioPath": "/public/audio/mong_yu_cloudee.mp3",
+      "beatmapPath": "/public/beatmaps/mong_yu_normal.json",
       "note": "Tác giả: CLOUDEE REMIX"
     },
     {
@@ -38,8 +38,8 @@
       "bpm": 118,
       "duration": 166,
       "strat": ["charm", "sniper"],
-      "audioPath": "/audio/mong_yu_cloudee.mp3",
-      "beatmapPath": "/beatmaps/mong_yu_hard.json",
+      "audioPath": "/public/audio/mong_yu_cloudee.mp3",
+      "beatmapPath": "/public/beatmaps/mong_yu_hard.json",
       "note": "Tác giả: CLOUDEE REMIX"
     },
     {
@@ -52,8 +52,8 @@
       "bpm": 146,
       "duration": 152,
       "strat": ["charm", "sniper"],
-      "audioPath": "/audio/co_cong_mai_sac_drill.mp3",
-      "beatmapPath": "/beatmaps/co_cong_mai_sac_easy.json",
+      "audioPath": "/public/audio/co_cong_mai_sac_drill.mp3",
+      "beatmapPath": "/public/beatmaps/co_cong_mai_sac_easy.json",
       "note": "Tác giả: Prod. By Hades"
     },
     {
@@ -66,8 +66,8 @@
       "bpm": 146,
       "duration": 152,
       "strat": ["charm", "sniper"],
-      "audioPath": "/audio/co_cong_mai_sac_drill.mp3",
-      "beatmapPath": "/beatmaps/co_cong_mai_sac_normal.json",
+      "audioPath": "/public/audio/co_cong_mai_sac_drill.mp3",
+      "beatmapPath": "/public/beatmaps/co_cong_mai_sac_normal.json",
       "note": "Tác giả: Prod. By Hades"
     },
     {
@@ -80,8 +80,8 @@
       "bpm": 146,
       "duration": 152,
       "strat": ["charm", "sniper"],
-      "audioPath": "/audio/co_cong_mai_sac_drill.mp3",
-      "beatmapPath": "/beatmaps/co_cong_mai_sac_hard.json",
+      "audioPath": "/public/audio/co_cong_mai_sac_drill.mp3",
+      "beatmapPath": "/public/beatmaps/co_cong_mai_sac_hard.json",
       "note": "Tác giả: Prod. By Hades"
     },
     {
@@ -94,8 +94,8 @@
       "bpm": 130,
       "duration": 36,
       "strat": ["charm", "sniper"],
-      "audioPath": "/audio/giay_ghi_chu_tam_nguyen_baby.mp3",
-      "beatmapPath": "/beatmaps/giay_ghi_chu_easy.json",
+      "audioPath": "/public/audio/giay_ghi_chu_tam_nguyen_baby.mp3",
+      "beatmapPath": "/public/beatmaps/giay_ghi_chu_easy.json",
       "note": "Tác giả: Đi Va Quanh Ta"
     },
     {
@@ -108,8 +108,8 @@
       "bpm": 130,
       "duration": 36,
       "strat": ["charm", "sniper"],
-      "audioPath": "/audio/giay_ghi_chu_tam_nguyen_baby.mp3",
-      "beatmapPath": "/beatmaps/giay_ghi_chu_normal.json",
+      "audioPath": "/public/audio/giay_ghi_chu_tam_nguyen_baby.mp3",
+      "beatmapPath": "/public/beatmaps/giay_ghi_chu_normal.json",
       "note": "Tác giả: Đi Va Quanh Ta"
     },
     {
@@ -122,8 +122,8 @@
       "bpm": 130,
       "duration": 36,
       "strat": ["charm", "sniper"],
-      "audioPath": "/audio/giay_ghi_chu_tam_nguyen_baby.mp3",
-      "beatmapPath": "/beatmaps/giay_ghi_chu_hard.json",
+      "audioPath": "/public/audio/giay_ghi_chu_tam_nguyen_baby.mp3",
+      "beatmapPath": "/public/beatmaps/giay_ghi_chu_hard.json",
       "note": "Tác giả: Đi Va Quanh Ta"
     }
   ]
