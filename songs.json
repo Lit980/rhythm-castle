@@ -41,6 +41,48 @@
       "audioPath": "/public/audio/mong_yu_cloudee.mp3",
       "beatmapPath": "/public/beatmaps/mong_yu_hard.json",
       "note": "Tác giả: CLOUDEE REMIX"
-    }
+    },
+{
+  "id": "co_cong_mai_sac_easy",
+  "title": "Có Công Mài Sắc - Drill Mix",
+  "artist": "Prod. By Hades",
+  "genre": "drill",
+  "genre2": "tiktok",
+  "difficulty": "easy",
+  "bpm": 146,
+  "duration": 152,
+  "strat": ["charm", "sniper"],
+  "audioPath": "/public/audio/co_cong_mai_sac_drill.mp3",
+  "beatmapPath": "/public/beatmaps/co_cong_mai_sac_easy.json",
+  "note": "Tác giả: Prod. By Hades"
+},
+{
+  "id": "co_cong_mai_sac_normal",
+  "title": "Có Công Mài Sắc - Drill Mix",
+  "artist": "Prod. By Hades",
+  "genre": "drill",
+  "genre2": "tiktok",
+  "difficulty": "normal",
+  "bpm": 146,
+  "duration": 152,
+  "strat": ["charm", "sniper"],
+  "audioPath": "/public/audio/co_cong_mai_sac_drill.mp3",
+  "beatmapPath": "/public/beatmaps/co_cong_mai_sac_normal.json",
+  "note": "Tác giả: Prod. By Hades"
+},
+{
+  "id": "co_cong_mai_sac_hard",
+  "title": "Có Công Mài Sắc - Drill Mix",
+  "artist": "Prod. By Hades",
+  "genre": "drill",
+  "genre2": "tiktok",
+  "difficulty": "hard",
+  "bpm": 146,
+  "duration": 152,
+  "strat": ["charm", "sniper"],
+  "audioPath": "/public/audio/co_cong_mai_sac_drill.mp3",
+  "beatmapPath": "/public/beatmaps/co_cong_mai_sac_hard.json",
+  "note": "Tác giả: Prod. By Hades"
+}
   ]
 }
