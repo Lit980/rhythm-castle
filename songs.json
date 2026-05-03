@@ -279,6 +279,48 @@
   "audioPath": "/public/audio/never_too_much_siangyoo.mp3",
   "beatmapPath": "/public/beatmaps/never_too_much_hard.json",
   "note": "Tác giả: siangyoo"
+},
+{
+  "id": "co_cong_mai_sac_dai_meo_easy",
+  "title": "Có Công Mài \"Sắc\" Đại Mèo Remix",
+  "artist": "Đại Mèo Remix",
+  "genre": "tiktok",
+  "genre2": "tiktok",
+  "difficulty": "easy",
+  "bpm": 135,
+  "duration": 51,
+  "strat": ["charm", "sniper"],
+  "audioPath": "/public/audio/co_cong_mai_sac_dai_meo_remix.mp3",
+  "beatmapPath": "/public/beatmaps/co_cong_mai_sac_dai_meo_easy.json",
+  "note": "Tác giả: Đại Mèo Remix"
+},
+{
+  "id": "co_cong_mai_sac_dai_meo_normal",
+  "title": "Có Công Mài \"Sắc\" Đại Mèo Remix",
+  "artist": "Đại Mèo Remix",
+  "genre": "tiktok",
+  "genre2": "tiktok",
+  "difficulty": "normal",
+  "bpm": 135,
+  "duration": 51,
+  "strat": ["charm", "sniper"],
+  "audioPath": "/public/audio/co_cong_mai_sac_dai_meo_remix.mp3",
+  "beatmapPath": "/public/beatmaps/co_cong_mai_sac_dai_meo_normal.json",
+  "note": "Tác giả: Đại Mèo Remix"
+},
+{
+  "id": "co_cong_mai_sac_dai_meo_hard",
+  "title": "Có Công Mài \"Sắc\" Đại Mèo Remix",
+  "artist": "Đại Mèo Remix",
+  "genre": "tiktok",
+  "genre2": "tiktok",
+  "difficulty": "hard",
+  "bpm": 135,
+  "duration": 51,
+  "strat": ["charm", "sniper"],
+  "audioPath": "/public/audio/co_cong_mai_sac_dai_meo_remix.mp3",
+  "beatmapPath": "/public/beatmaps/co_cong_mai_sac_dai_meo_hard.json",
+  "note": "Tác giả: Đại Mèo Remix"
 }
   ]
 }
